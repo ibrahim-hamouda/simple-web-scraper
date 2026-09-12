@@ -43,4 +43,4 @@ Upon successful execution, the script generates two files:
 
 **Ibrahim Alaa El-Din**  
 *Communication Engineering Student at the Egyptian Chinese College for Applied Technology*  
-[LinkedIn Profile](https://www.linkedin.com/in/your-profile-link) | [GitHub](https://github.com/your-username)
+[LinkedIn Profile](https://www.linkedin.com/in/ibrahimhamoudaa/) | [GitHub](https://github.com/ibrahim-hamouda)
